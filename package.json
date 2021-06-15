@@ -1,15 +1,15 @@
 {
-  "name": "barberSite",
+  "name": "barber",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d barber"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://eliaske.github.io/barbershopClone",
+  "homepage": "https://eliaske.github.io/BarberShopSite",
   "dependencies": {
     "gh-pages": "^3.2.1"
   }
