@@ -4,7 +4,7 @@
     font-family: font-family: 'Poppins', sans-serif;;
 }
 #banner{
-    background: url(images/banner.jpg);
+    background: url(images/first.jpg);
     background-size: cover;
     background-position:center;
     height: 100vh;
@@ -232,7 +232,7 @@ nav ul li{
      top: 0;
      border-radius: 7px;
      cursor: pointer;
-     background-color: #009688;
+    /* background-color: #009688; */
      opacity: 0;
      transition: 1s;
  }.single-service:hover .overlay{
@@ -347,10 +347,12 @@ nav ul li{
     margin-bottom: 20px;
 }
 .footer-right{
-    text-align: right;
+    text-align: center;
 }
 .footer-row{
-    margin: 10px 0;
+    text-align: center;
+    /* margin: 10px 0;
+    margin-left: auto; */
 }
 .footer-row p{
     line-height: 35px;

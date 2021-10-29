@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://eliaske.github.io/BarberShopSite",
+  "homepage": "https://eliaske.github.io/barber",
   "dependencies": {
     "gh-pages": "^3.2.1"
   }
